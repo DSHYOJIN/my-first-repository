@@ -1,2 +1,4 @@
-# first-repository
-add new contents
+# my-first-repository
+
+처음으로 생성한 레포지토리! 두근!
+모두의 연구소 데이터 사이언티스트 6기 김효진 깃허브 입니다~ *^^*
